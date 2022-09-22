@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Py-God
+- 👋 Hi, I’m Boluwatife
 - 👀 I’m interested in greater programming knowledge
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on so far any python related projects 
+- 🌱 I’m currently learning Django, Python
+- 💞️ I’m looking to collaborate on so far any python, django related projects 
 - 📫 How to reach me: boluwatifelekeoduoye@gmail.com
 
 <!---
