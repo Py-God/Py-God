@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boluwatife
 - 👀 I’m interested in greater programming knowledge
-- 🌱 I’m currently learning Django, Python
-- 💞️ I’m looking to collaborate on so far any python, django related projects 
+- 🌱 I’m currently learning OOP, Python
+- 💞️ I’m looking to collaborate on so far any python related projects
 - 📫 How to reach me: boluwatifelekeoduoye@gmail.com
 
 <!---
