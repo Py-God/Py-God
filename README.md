@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Boluwatife
-- 👀 I’m interested in greater programming knowledge
-- 🌱 I’m currently learning OOP, Python
-- 💞️ I’m looking to collaborate on so far any python related projects
-- 📫 How to reach me: boluwatifelekeoduoye@gmail.com
 
-<!---
-Py-God/Py-God is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Boluwatife Leke-Oduoye from Nigeria. I enjoy programming in Python and JavaScript.
+I enjoy using Python to solve problems. I am currently learning Web development with HTML, CSS and JavaScript.
